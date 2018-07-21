@@ -2,7 +2,7 @@
 
 source코드가 있는 폴더에서,
 $ javac *.java
-$ java -cp ".;ojdbc7.jar" SchoolDBSystem
+$ java -cp ".;ojdbc8.jar" SchoolDBSystem
 
 compile 환경 : Windows 10
 
